@@ -1,0 +1,28 @@
+
+#titulo{
+  color:red;
+  font-size:50px;
+  border: 3px white solid;
+  text-align: center;
+  font-family: cursive;
+  -webkit-text-stroke: 1px white;
+  
+}
+.p1{
+  color:mediumseagreen;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 5px;
+  border-width: 3px;
+}
+.f1{
+  color:white;
+  text-align: center;
+}
+.img-container{
+  text-align: center;
+}
+  .c1{
+    text-align: center;
+  }
+
